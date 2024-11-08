@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  },
+  "name": "00-starting-setup",
+  "version": "1.0.0",
+  "description": "complete-node-js-guide",
+  "main": "app_e.js",
+  "scripts": {
+    "test": "test01",
+    "start": "nodemon app_e.js",
+    "start-server": "app.e.js"
+
+  },
+  "author": "Praveen Gaur",
+  "license": "ISC"
+}
