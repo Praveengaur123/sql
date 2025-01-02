@@ -16,7 +16,7 @@
   "scripts": {
     "test": "test01",
     "start": "nodemon app_e.js",
-    "start-server": "app.e.js"
+    "start-server": "app_e.js"
   },
   "author": "Praveen Gaur",
   "license": "ISC"
